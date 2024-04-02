@@ -6,4 +6,3 @@ This Java project simplifies hospital operations by replacing manual tasks with 
 
 
 
-
